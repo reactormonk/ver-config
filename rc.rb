@@ -21,7 +21,7 @@ VER.options.dsl do
     :emergency_exit, "<Control-q>"
 
   o "Default Font for all widgets",
-    :font, "DejaVu Sans Mono 8"
+    :font, "DejaVu Sans Mono 10"
 
   o "Fork off on startup to avoid dying with the terminal",
     :fork, VER::Platform.unix?

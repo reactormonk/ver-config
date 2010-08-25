@@ -79,3 +79,4 @@ VER.options.dsl do
 end
 VER.plugin(:git)
 require_relative 'keymap'
+require 'ver-command_t'
